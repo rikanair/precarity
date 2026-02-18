@@ -9,7 +9,7 @@ The **Precarity in Research Working Group** is a collective initiative taking ac
 
 ---
 
-### Our Vision
+### PRWG's Vision
 
 To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.
 
@@ -48,9 +48,6 @@ Precarity in research is widespread, driven by reliance on fixed-term contracts,
 
 Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty. Early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. Precarity is structural and cultural, not just contractual.
 
----
-
-### Case Studies
 
 <div class="flex-container">
   <div class="card">
@@ -63,7 +60,7 @@ Surveys and discussions with researchers consistently show that these conditions
   </div>
   <div class="card">
     <h4>Case Study 3</h4>
-    <p>Example of a research-teaching role impacted by unstable contracts and funding.</p>
+    <p>Example of best practice.</p>
   </div>
 </div>
 
