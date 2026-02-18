@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Precarity in Research Working Group
+title: Precarity Working Group
 ---
 
 <!-- Google Fonts: Lato -->
@@ -8,7 +8,6 @@ title: Precarity in Research Working Group
 
 <!-- Link external CSS -->
 <link rel="stylesheet" href="assets/css/style.css">
-
 
 ### Against Precarity in Research Careers
 
@@ -65,17 +64,17 @@ Surveys and discussions with researchers consistently show that these conditions
 ### Case Studies
 
 <div class="flex-container">
-  <div class="card case1">
+  <div class="card">
     <h4>Case Study 1</h4>
     <p>Example of lived experience from an early career researcher on a fixed-term contract.</p>
   </div>
 
-  <div class="card case2">
+  <div class="card">
     <h4>Case Study 2</h4>
     <p>Illustration of precarity affecting research professionals and technicians.</p>
   </div>
 
-  <div class="card case3">
+  <div class="card">
     <h4>Case Study 3</h4>
     <p>Example of a research-teaching role impacted by unstable contracts and funding.</p>
   </div>
@@ -83,46 +82,14 @@ Surveys and discussions with researchers consistently show that these conditions
 
 ---
 
-<!-- Call-to-action banner -->
-<a href="https://example.com/signup" class="cta-banner">
-  <h2 style="margin:0 0 0.5em 0; font-size:1.8em;">We need a coordinated national effort to tackle precarity.</h2>
-  <p style="margin:0; font-size:1.2em;">Your voice, expertise, and lived experience are vital.</p>
-</a>
+### Call to Action
+
+We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.
 
 ---
 
-## What Can We Do?
+### What Can We Do?
 
-<div class="flex-container">
-  <div class="card funders">
-    <h4>Funders</h4>
-    <p>Understand the impact and use your influence to make positive change.</p>
-  </div>
-
-  <div class="card institutions">
-    <h4>Institutions</h4>
-    <p>Collaborate to improve systems, share responsibility, and take meaningful action.</p>
-  </div>
-
-  <div class="card unions">
-    <h4>Unions</h4>
-    <p>Support members, actively campaign, and collaborate to drive systemic change.</p>
-  </div>
-
-  <div class="card enablers">
-    <h4>Research Culture Enablers</h4>
-    <p>Promote good practice, advocate for supportive structures, and share expertise.</p>
-  </div>
-
-  <div class="card affected">
-    <h4>Affected Colleagues</h4>
-    <p>Share experiences, contribute to discussions, and help inform sector-wide change.</p>
-  </div>
-</div>
-
----
-
-### Get Involved
-
-We welcome your voice, your expertise, and your experiences.  
-[Sign up to join the Working Group](https://example.com/signup) or contact us for more information: **Ash [email@example.com]**.
+<ul class="what-can-do">
+  <li><h4>Funders:</h4> Understand the impact and use your influence to make positive change.</li>
+  <li><h4>Institutions:</h4> Collaborate to improve systems, share responsibility, and take meaningful action.</li>
