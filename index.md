@@ -5,9 +5,9 @@ title: Precarity in Research Working Group
 
 # Precarity in Research Working Group
 
-## Invitation to Join the Working Group and Optional Workstreams
+## Against Precarity in Research Careers
 
-We are pleased to invite you to join the **Precarity in Research Working Group**, a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+The **Precarity in Research Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
 
 ### Our Vision
 
@@ -24,7 +24,7 @@ To take collective action to reduce the level and impact of employment precarity
 ## Join Us
 
 We welcome any contributions you can make, even just signing up to show your support.  
-As a member of the Working Group, you will be invited to bimonthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
+As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
 
 - **Workstream 1: Data & Evidence**  
   Planned outputs: Creating an evidence bank, conducting research on precarity, and mapping support.
@@ -69,5 +69,4 @@ Any other questions? Contact: **Ash [email@example.com]**
 
 ---
 
-**Warm regards,**  
 *The Precarity Working Group*
