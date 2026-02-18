@@ -2,7 +2,7 @@
 layout: default
 title: Research Precarity Working Group
 ---
-![Research Precarity Working Group](/wg.svg)
+![Research Precarity Working Group](wg.svg)
 ### Against Precarity in Research Careers
 
 The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
