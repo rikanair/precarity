@@ -2,8 +2,11 @@
 layout: default
 title: Research Precarity Working Group
 ---
-<div class="logo">
-  <img src="https://github.com/rikanair/precarity/blob/main/RPWG.png" alt="Research Precarity Working Group Logo" width=250px>
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <img src="{{ '/RPWG.png' | relative_url }}" 
+       alt="Research Precarity Working Group Logo" 
+       width="220">
 </div>
 
 
