@@ -6,8 +6,8 @@ title: Precarity Working Group
 <!-- Google Fonts: Lato -->
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 
-<!-- Link external CSS -->
-<link rel="stylesheet" href="assets/css/style.css">
+<!-- Link external CSS (corrected for GitHub Pages repo path) -->
+<link rel="stylesheet" href="/precarity/assets/css/style.css">
 
 ### Against Precarity in Research Careers
 
