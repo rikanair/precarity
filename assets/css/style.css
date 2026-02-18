@@ -1,0 +1,73 @@
+/* ===== Global font ===== */
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.6;
+}
+
+/* ===== Hide top-right Minima site title ===== */
+.site-header .site-title {
+  display: none;
+}
+
+/* ===== Section spacing ===== */
+section, h2, h3 {
+  margin-bottom: 1.5em;
+}
+
+/* ===== Card boxes styling ===== */
+.card {
+  flex: 1 1 250px;
+  padding: 1.5em;
+  border-radius: 8px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 180px;
+}
+
+/* ===== Case Studies colors ===== */
+.case1 { background:#51D7C1; color:#fff; }
+.case2 { background:#B9EFE6; color:#000; }
+.case3 { background:#51D7C1; color:#fff; }
+
+/* ===== What Can We Do colors ===== */
+.funders { background:#51D7C1; color:#fff; }
+.institutions { background:#B9EFE6; color:#000; }
+.unions { background:#51D7C1; color:#fff; }
+.enablers { background:#B9EFE6; color:#000; }
+.affected { background:#51D7C1; color:#fff; }
+
+/* ===== Flex containers ===== */
+.flex-container {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+/* ===== Vision quote ===== */
+blockquote {
+  font-style: italic;
+  font-weight: 400;
+  margin: 0;
+}
+
+/* ===== Call-to-action banner ===== */
+.cta-banner {
+  background:#51D7C1;
+  color:#fff;
+  text-align:center;
+  padding:2em 1em;
+  border-radius:8px;
+  margin:2em 0;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  text-decoration: none; /* removes underline for <a> */
+  display: block;
+}
+.cta-banner:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
