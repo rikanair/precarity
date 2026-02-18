@@ -3,14 +3,25 @@ layout: home
 title: Precarity in Research Working Group
 ---
 
-
-## Against Precarity in Research Careers
+### Against Precarity in Research Careers
 
 The **Precarity in Research Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+
+---
 
 ### Our Vision
 
 To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.
+
+<div style="border:1px solid #ccc; padding:1em; margin:1em 0; background-color:#f9f9f9; display:flex; align-items:center;">
+  <img src="assets/images/ash.jpg" alt="Ash" style="width:80px; height:80px; border-radius:50%; margin-right:1em;">
+  <blockquote style="margin:0;">
+    "We need to ensure that everyone in research, across all roles, has security, recognition, and a voice in shaping the culture of their workplace."  
+    <br>— Ash
+  </blockquote>
+</div>
+
+---
 
 ### Our Mission
 
@@ -38,34 +49,62 @@ As a member of the Working Group, you will be invited to bi-monthly meetings, ca
 
 ## What We Mean by Precarity in Research
 
-Precarity in research is widespread, driven by reliance on fixed-term contracts, unstable funding, and shrinking of the higher education sector. This insecurity affects researchers at all career stages, teaching focussed roles, technical specialists, professional services staff, and research professionals. 
+Precarity in research is widespread, driven by reliance on fixed-term contracts, unstable funding, and shrinking of the higher education sector. This insecurity affects researchers at all career stages, teaching-focused roles, technical specialists, professional services staff, and research professionals.  
 
-Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty, with many feeling unable to plan long-term for their careers. For example, early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. These pressures are both structural and cultural, demonstrating that precarity is not just about employment contracts but also about the environment in which research is conducted.
+Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty, with many feeling unable to plan long-term for their careers. Early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. These pressures are both structural and cultural, demonstrating that precarity is not just about employment contracts but also about the environment in which research is conducted.
+
+---
 
 ### Case Studies
 
-- Examples of lived experience across different roles and contexts.  
-- Focused illustrations of how precarity impacts research outcomes and career progression.
+<div style="display:flex; gap:1em; flex-wrap:wrap;">
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:250px; background:#f9f9f9;">
+    <h4>Case Study 1</h4>
+    <p>Example of lived experience from an early career researcher on a fixed-term contract.</p>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:250px; background:#f9f9f9;">
+    <h4>Case Study 2</h4>
+    <p>Illustration of precarity affecting research professionals and technicians.</p>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:250px; background:#f9f9f9;">
+    <h4>Case Study 3</h4>
+    <p>Example of a research-teaching role impacted by unstable contracts and funding.</p>
+  </div>
+</div>
 
 ---
 
-## Stakeholder Engagement
-
-- **Funders:** Understand the impact and use your influence to make positive change.  
-- **Institutions:** Collaborate to improve systems, share responsibility, and take meaningful action.  
-- **Unions:** Support members, actively campaign, and collaborate to drive systemic change.  
-
-> We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.
+We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.
 
 ---
 
-## Get Involved
+## What Can We Do?
 
-If you wish to join the network or specify interest in one or more workstreams:  
-[Sign up here](#)  
+<div style="display:flex; gap:1em; flex-wrap:wrap; margin-bottom:2em;">
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px; background:#eef6f9;">
+    <h4>Funders</h4>
+    <p>Understand the impact and use your influence to make positive change.</p>
+  </div>
 
-Any other questions? Contact: **Ash [email@example.com]**
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px; background:#eef6f9;">
+    <h4>Institutions</h4>
+    <p>Collaborate to improve systems, share responsibility, and take meaningful action.</p>
+  </div>
 
----
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px; background:#eef6f9;">
+    <h4>Unions</h4>
+    <p>Support members, actively campaign, and collaborate to drive systemic change.</p>
+  </div>
 
-*The Precarity Working Group*
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px; background:#eef6f9;">
+    <h4>Research Culture Enablers</h4>
+    <p>Promote good practice, advocate for supportive structures, and share expertise.</p>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px; background:#eef6f9;">
+    <h4>Affected Colleagues</h4>
+    <p>Share experiences, contribute to discussions, and help inform sector-wide change.</p>
+  </div>
+</div>
