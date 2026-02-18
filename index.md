@@ -1,10 +1,6 @@
 ---
 layout: home
 title: Precarity in Research Working Group
----
----
-layout: home
-title: Precarity in Research Working Group
 css: /assets/css/custom.css
 ---
 
