@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Precarity Working Group
+title: Precarity in Research Working Group
 ---
 
 <!-- Google Fonts: Lato -->
