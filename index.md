@@ -67,15 +67,11 @@ Surveys and discussions with researchers consistently show that these conditions
   </div>
 </div>
 
----
-
-### Call to Action
-
 <p class="cta">We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.</p>
 
 ---
 
-### What Can We Do
+### Our Commitments
 
 <ul class="what-can-do">
   <li><h4>Funders:</h4> Understand the impact and use your influence to make positive change.</li>
