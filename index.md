@@ -14,7 +14,7 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.
 
 <div class="vision-quote">
-  <img src="assets/images/ash.png" alt="Ash" class="quote-img">
+  <img src="ash.png" alt="Ash" class="quote-img">
   <blockquote>
     "We need to ensure that everyone in research, across all roles, has security, recognition, and a voice in shaping the culture of their workplace."  
     <br>— Ash
