@@ -1,4 +1,2 @@
 title: Research Precarity Working Group 
-remote_theme: lenpaul/Lagrange
-plugins:
-  - jekyll-remote-theme 
+remote_theme: null
