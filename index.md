@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Precarity in Research Working Group
+title: Research Precarity Working Group
 ---
 
 ### Against Precarity in Research Careers
 
-The **Precarity in Research Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
 
 ---
 
-### PRWG's Vision
+### Vision
 
 To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.
 
@@ -23,7 +23,7 @@ To take collective action to reduce the level and impact of employment precarity
 
 ---
 
-### Our Mission
+### Mission
 
 - **Build a strong national case for change** to current employment practices.  
 - **Advocate for improved support** for colleagues facing precarity.  
