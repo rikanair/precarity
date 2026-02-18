@@ -6,7 +6,10 @@ body {
   padding: 2em;
   line-height: 1.6;
 }
-
+/* Hide the Lagrange automatic page title */
+.page-title {
+  display: none;
+}
 /* ===== Vision quote ===== */
 .vision-quote {
   display: flex;
