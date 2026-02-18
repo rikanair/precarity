@@ -3,7 +3,7 @@ layout: default
 title: Research Precarity Working Group
 ---
 <div class="logo">
-  <img src="{{ '/RPWG.png' | relative_url }}" alt="Research Precarity Working Group Logo">
+  <img src="{{ 'https://github.com/rikanair/precarity/blob/main/RPWG.png' | relative_url }}" alt="Research Precarity Working Group Logo">
 </div>
 ### Against Precarity in Research Careers
 
