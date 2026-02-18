@@ -7,10 +7,11 @@ body {
   line-height: 1.6;
 }
 
-/* ===== Hide Lagrange automatic header and footer title ===== */
-.page-title,       /* Top page header */
-.site-title {      /* Footer site title */
-  display: none;
+/* ===== Hide Lagrange automatic header and footer ===== */
+.site-header,
+.site-header .page-title,
+.site-footer {
+  display: none !important;
 }
 
 /* ===== Vision quote ===== */
