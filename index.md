@@ -4,7 +4,7 @@ title: Research Precarity Working Group
 ---
 
 <div style="text-align: center; margin: 1.5em 0;">
-  <img src="{{ '/RPWG.png' | relative_url }}" 
+  <img src="{{ 'https://raw.githubusercontent.com/rikanair/precarity/main/RPWG.png' | relative_url }}" 
        alt="Research Precarity Working Group Logo" 
        width="220">
 </div>
