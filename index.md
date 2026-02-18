@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Precarity in Research Working Group 
+title: Precarity in Research Working Group
 ---
 
 ### Against Precarity in Research Careers
