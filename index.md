@@ -30,7 +30,7 @@ To take collective action to reduce the level and impact of employment precarity
 
 ---
 
-## Join Us
+## Join the Working Group
 
 We welcome any contributions you can make, even just signing up to show your support.  
 As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
