@@ -8,6 +8,64 @@ title: Precarity Working Group
 
 <!-- Link external CSS (corrected for GitHub Pages repo path) -->
 <link rel="stylesheet" href="/precarity/assets/css/style.css">
+---
+
+### Against Precarity in Research Careers
+
+The **Precarity in Research Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+
+---
+
+### Vision & Mission
+
+<div class="columns">
+  <div class="column">
+    <h3>Our Vision</h3>
+    <p>To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.</p>
+    <div style="border:1px solid #ccc; padding:1.5em; margin-top:1em; background-color:#f9f9f9; display:flex; align-items:center; gap:1em;">
+      <img src="assets/images/ash.jpg" alt="Ash" style="width:80px; height:80px; border-radius:50%;">
+      <blockquote>
+        "We need to ensure that everyone in research, across all roles, has security, recognition, and a voice in shaping the culture of their workplace."  
+        <br>— Ash
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="column">
+    <h3>Our Mission</h3>
+    <ul>
+      <li><strong>Build a strong national case for change</strong> to current employment practices.</li>
+      <li><strong>Advocate for improved support</strong> for colleagues facing precarity.</li>
+      <li><strong>Engage funders, HEIs, unions, and national bodies</strong> in sector-wide conversations and calls for action.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+### Join Us
+
+We welcome any contributions you can make, even just signing up to show your support.  
+As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
+
+- **Workstream 1: Data & Evidence**  
+  Creating an evidence bank, conducting research on precarity, and mapping support.
+
+- **Workstream 2: Organising & Outreach**  
+  Building networks, promoting discussion, and engaging stakeholders.
+
+- **Workstream 3: Making the Ask**  
+  Coordinating calls to action with funders, institutions, and unions.
+
+---
+
+### Precarity & Case Studies
+
+<div class="columns">
+  <div class="column">
+    <h3>What We Mean by Precarity</h3>
+    <p>Precarity in research is widespread, driven by reliance on fixed-term contracts, unstable funding, and shrinking of the higher education sector. This insecurity affects researchers at all career stages, teaching-focused roles, technical specialists, professional services staff, and research professionals.</p>
+    <p>Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty, with many feeling unable to plan long-term for their careers. Early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. Th
 
 ### Against Precarity in Research Careers
 
