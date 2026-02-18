@@ -3,9 +3,9 @@ layout: default
 title: Research Precarity Working Group
 ---
 <div class="logo">
-  <img src="https://github.com/rikanair/precarity/blob/main/RPWG.png" alt="Research Precarity Working Group Logo">
+  <img src="https://github.com/rikanair/precarity/blob/main/RPWG.png" alt="Research Precarity Working Group Logo" size=30%>
 </div>
-### Against Precarity in Research Careers
+
 
 The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
 
