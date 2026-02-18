@@ -93,3 +93,14 @@ We need a coordinated national effort to tackle precarity. Your voice, expertise
 <ul class="what-can-do">
   <li><h4>Funders:</h4> Understand the impact and use your influence to make positive change.</li>
   <li><h4>Institutions:</h4> Collaborate to improve systems, share responsibility, and take meaningful action.</li>
+  <li><h4>Unions:</h4> Support members, actively campaign, and collaborate to drive systemic change.</li>
+  <li><h4>Research Culture Enablers:</h4> Promote good practice, advocate for supportive structures, and share expertise.</li>
+  <li><h4>Affected Colleagues:</h4> Share experiences, contribute to discussions, and help inform sector-wide change.</li>
+</ul>
+
+---
+
+### Get Involved
+
+We welcome your voice, your expertise, and your experiences.  
+[Sign up to join the Working Group](https://example.com/signup) or contact us for more information: **Ash [email@example.com]**.
