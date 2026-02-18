@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Research Precarity Working Group 
+title: Research Precarity Working Group
 ---
+
+# Research Precarity Working Group
 
 ### Against Precarity in Research Careers
 
@@ -48,6 +50,9 @@ Precarity in research is widespread, driven by reliance on fixed-term contracts,
 
 Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty. Early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. Precarity is structural and cultural, not just contractual.
 
+---
+
+### Case Studies
 
 <div class="flex-container">
   <div class="card">
@@ -66,9 +71,9 @@ Surveys and discussions with researchers consistently show that these conditions
 
 ---
 
+### Call to Action
 
-
-### We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.
+<p class="cta">We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.</p>
 
 ---
 
