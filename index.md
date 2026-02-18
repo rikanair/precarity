@@ -71,10 +71,10 @@ Surveys and discussions with researchers consistently show that these conditions
 
 ---
 
-### Our Commitments
+### Working Together
 
 <ul class="what-can-do">
-  <li><h4>Funders:</h4> Understand the impact and use your influence to make positive change.</li>
+  <li><h4>Funders:</h4> Understand impact of policies and use influence to make positive change.</li>
   <li><h4>Institutions:</h4> Collaborate to improve systems, share responsibility, and take meaningful action.</li>
   <li><h4>Unions:</h4> Support members, actively campaign, and collaborate to drive systemic change.</li>
   <li><h4>Research Culture Enablers:</h4> Promote good practice, advocate for supportive structures, and share expertise.</li>
