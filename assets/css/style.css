@@ -6,10 +6,13 @@ body {
   padding: 2em;
   line-height: 1.6;
 }
-/* Hide the Lagrange automatic page title */
-.page-title {
+
+/* ===== Hide Lagrange automatic header and footer title ===== */
+.page-title,       /* Top page header */
+.site-title {      /* Footer site title */
   display: none;
 }
+
 /* ===== Vision quote ===== */
 .vision-quote {
   display: flex;
@@ -39,7 +42,7 @@ blockquote {
   margin-bottom: 2em;
 }
 .card {
-  background: #B9EFE6;
+  background: #B9EFE6; /* light teal */
   border-radius: 8px;
   padding: 1.5em;
   flex: 1 1 250px;
@@ -55,7 +58,7 @@ blockquote {
   font-size: 1.2em;
   color: #000;
   padding: 1em;
-  border-left: 5px solid #51D7C1;
+  border-left: 5px solid #51D7C1; /* dark teal accent */
   background: #f0fdfa;
   border-radius: 6px;
   margin-bottom: 2em;
@@ -63,7 +66,7 @@ blockquote {
 
 /* ===== What Can We Do ===== */
 .what-can-do h4 {
-  color: #1F9A8D; /* dark teal */
+  color: #1F9A8D; /* dark teal for titles */
   display: inline;
   font-weight: 700;
   margin-right: 0.5em;
