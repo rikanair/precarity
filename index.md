@@ -71,9 +71,9 @@ Surveys and discussions with researchers consistently show that these conditions
 
 ---
 
-### Call to Action
 
-<p class="cta">We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.</p>
+
+### We need a coordinated national effort to tackle precarity. Your voice, expertise, and lived experience are vital.
 
 ---
 
