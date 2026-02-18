@@ -2,6 +2,12 @@
 layout: home
 title: Precarity in Research Working Group
 ---
+---
+layout: home
+title: Precarity in Research Working Group
+css: /assets/css/custom.css
+---
+
 
 ### Against Precarity in Research Careers
 
