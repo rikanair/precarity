@@ -3,7 +3,7 @@ layout: default
 title: Research Precarity Working Group
 ---
 
-# Research Precarity Working Group
+
 
 ### Against Precarity in Research Careers
 
