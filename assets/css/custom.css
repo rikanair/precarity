@@ -1,0 +1,4 @@
+/* Hide the top-right site title in Minima */
+.site-header .site-title {
+  display: none;
+}
