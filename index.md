@@ -2,8 +2,7 @@
 layout: home
 title: Precarity in Research Working Group
 ---
- 
-# Precarity in Research Working Group
+
 
 ## Against Precarity in Research Careers
 
@@ -27,7 +26,7 @@ We welcome any contributions you can make, even just signing up to show your sup
 As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
 
 - **Workstream 1: Data & Evidence**  
-  Planned outputs: Creating an evidence bank, conducting research on precarity, and mapping support.
+  Creating an evidence bank, conducting research on precarity, and mapping support.
 
 - **Workstream 2: Organising & Outreach**  
   Building networks, promoting discussion, and engaging stakeholders.
@@ -39,9 +38,9 @@ As a member of the Working Group, you will be invited to bi-monthly meetings, ca
 
 ## What We Mean by Precarity in Research
 
-- Precarity linked to fixed-term contracts, sector instability, or downsizing.  
-- Precarity affects different job families: researchers, research & teaching, technicians, professional services, research professionals.  
-- Scary + hopeful statistics: approximately **80% of early career researchers** are on precarious contracts.  
+Precarity in research is widespread, driven by reliance on fixed-term contracts, unstable funding, and shrinking of the higher education sector. This insecurity affects researchers at all career stages, teaching focussed roles, technical specialists, professional services staff, and research professionals. 
+
+Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty, with many feeling unable to plan long-term for their careers. For example, early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. These pressures are both structural and cultural, demonstrating that precarity is not just about employment contracts but also about the environment in which research is conducted.
 
 ### Case Studies
 
