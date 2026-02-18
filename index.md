@@ -3,6 +3,12 @@ layout: home
 title: Precarity Working Group
 ---
 
+<!-- Google Fonts: Lato -->
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- Link external CSS -->
+<link rel="stylesheet" href="/assets/css/style.css">
+
 ### Against Precarity in Research Careers
 
 The **Precarity in Research Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
@@ -27,95 +33,4 @@ To take collective action to reduce the level and impact of employment precarity
 
 - **Build a strong national case for change** to current employment practices.  
 - **Advocate for improved support** for colleagues facing precarity.  
-- **Engage funders, higher education institutions (HEIs), unions, and national bodies** in sector-wide conversations and calls for action.
-
----
-
-## Join Us
-
-We welcome any contributions you can make, even just signing up to show your support.  
-As a member of the Working Group, you will be invited to bi-monthly meetings, can contribute outside of meetings, and have the option to participate in one or more focused **workstreams**:
-
-- **Workstream 1: Data & Evidence**  
-  Creating an evidence bank, conducting research on precarity, and mapping support.
-
-- **Workstream 2: Organising & Outreach**  
-  Building networks, promoting discussion, and engaging stakeholders.
-
-- **Workstream 3: Making the Ask**  
-  Coordinating calls to action with funders, institutions, and unions.
-
----
-
-## What We Mean by Precarity in Research
-
-Precarity in research is widespread, driven by reliance on fixed-term contracts, unstable funding, and shrinking of the higher education sector. This insecurity affects researchers at all career stages, teaching-focused roles, technical specialists, professional services staff, and research professionals.  
-
-Surveys and discussions with researchers consistently show that these conditions create high levels of stress and uncertainty, with many feeling unable to plan long-term for their careers. Early career researchers often work on contracts that provide limited job security, and many report that competition and contractual instability can make workplaces feel unkind, unsafe, or unsustainable. These pressures are both structural and cultural, demonstrating that precarity is not just about employment contracts but also about the environment in which research is conducted.
-
----
-
-### Case Studies
-
-<div class="flex-container">
-  <div class="card case1">
-    <h4>Case Study 1</h4>
-    <p>Example of lived experience from an early career researcher on a fixed-term contract.</p>
-  </div>
-
-  <div class="card case2">
-    <h4>Case Study 2</h4>
-    <p>Illustration of precarity affecting research professionals and technicians.</p>
-  </div>
-
-  <div class="card case3">
-    <h4>Case Study 3</h4>
-    <p>Example of a research-teaching role impacted by unstable contracts and funding.</p>
-  </div>
-</div>
-
----
-
-<!-- Call-to-action banner -->
-<a href="https://example.com/signup" class="cta-banner">
-  <h2 style="margin:0 0 0.5em 0; font-size:1.8em;">We need a coordinated national effort to tackle precarity.</h2>
-  <p style="margin:0; font-size:1.2em;">Your voice, expertise, and lived experience are vital.</p>
-</a>
-
----
-
-## What Can We Do?
-
-<div class="flex-container">
-  <div class="card funders">
-    <h4>Funders</h4>
-    <p>Understand the impact and use your influence to make positive change.</p>
-  </div>
-
-  <div class="card institutions">
-    <h4>Institutions</h4>
-    <p>Collaborate to improve systems, share responsibility, and take meaningful action.</p>
-  </div>
-
-  <div class="card unions">
-    <h4>Unions</h4>
-    <p>Support members, actively campaign, and collaborate to drive systemic change.</p>
-  </div>
-
-  <div class="card enablers">
-    <h4>Research Culture Enablers</h4>
-    <p>Promote good practice, advocate for supportive structures, and share expertise.</p>
-  </div>
-
-  <div class="card affected">
-    <h4>Affected Colleagues</h4>
-    <p>Share experiences, contribute to discussions, and help inform sector-wide change.</p>
-  </div>
-</div>
-
----
-
-### Get Involved
-
-We welcome your voice, your expertise, and your experiences.  
-[Sign up to join the Working Group](https://example.com/signup) or contact us for more information: **Ash [email@example.com]**.
+- **Engage funders, higher education institutions (HEIs), unions,**
