@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
+  <!-- Background rectangle -->
+  <rect width="500" height="100" rx="10" ry="10" fill="#51D7C1"></rect>
+
+  <!-- Logo text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Lato, sans-serif" font-size="24" fill="#ffffff" font-weight="700">
+    Research Precarity Working Group
+  </text>
+</svg>
