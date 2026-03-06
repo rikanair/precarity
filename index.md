@@ -30,7 +30,7 @@ To take collective action to reduce the level and impact of employment precarity
 <ul>
   <li><strong>Build a strong national case for change</strong> to current employment practices.</li>
   <li><strong>Advocate for improved support</strong> for colleagues facing precarity.</li>
-  <li><strong>Engage funders, HEIs and national bodies</strong> in sector-wide conversations and calls for action.</li>
+  <li><strong>Engage funders, HEIs and sector bodies</strong> in sector-wide conversations and calls for action.</li>
 </ul>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
