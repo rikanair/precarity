@@ -3,12 +3,72 @@ layout: default
 title: Research Precarity Working Group
 ---
 
+<style>
+/* Button style */
+.button-teal {
+  display: inline-block;
+  padding: 10px 22px;
+  background-color: #4db6ac; /* light teal */
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.button-teal:hover {
+  background-color: #39958c;
+}
+
+/* Vision quote styling */
+.vision-quote blockquote {
+  font-style: italic;
+  color: #00695c;
+  border-left: 4px solid #4db6ac;
+  padding-left: 1em;
+  margin: 1em 0;
+  background-color: #e0f2f1;
+  border-radius: 4px;
+}
+
+/* Headings */
+h3, h4 {
+  color: #00695c;
+}
+
+/* Lists */
+.what-can-do li {
+  margin-bottom: 0.8em;
+}
+
+/* Image */
+img {
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Call to action */
+.cta {
+  background-color: #e0f2f1;
+  padding: 1em;
+  border-left: 5px solid #4db6ac;
+  border-radius: 4px;
+  margin: 1.5em 0;
+  font-weight: bold;
+}
+
+/* Responsive image */
+@media (max-width: 600px) {
+  img {
+    width: 160px;
+  }
+}
+</style>
+
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="{{ 'https://raw.githubusercontent.com/rikanair/precarity/main/RPWG.png' | relative_url }}" 
        alt="Research Precarity Working Group Logo" 
        width="220">
 </div>
-
 
 The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
 
@@ -68,7 +128,7 @@ Many members of the research community report that intense competition, short-te
 The <strong>Research Precarity Working Group</strong> was established in 2025 by Ash Collins, then Senior Research Project Manager of the Wellcome Trust-funded <a href="https://www.nottingham.ac.uk/research/research-culture.aspx" target="_blank" rel="noopener">REC-HURDLE project</a> (Reducing Career Precarity: Revisiting Employment Contracts and Help for Under-represented Researcher groups to Develop, Lead and Excel). REC-HURDLE, a £1 million two-year initiative, addressed employment practices contributing to precarious work through reviewing fixed-term contracts, trialling new employment models, expanding career support for early career researchers, and providing targeted resources for underrepresented staff. Ash (they/them) created the Working Group to continue this work and foster collaboration to drive meaningful, sustained change across the research community.
 </p>
 
-<p class="cta"><p>
+<p class="cta">
 We need a coordinated national effort to tackle research precarity. By sharing your voice, expertise, and lived experience, you can help shape meaningful change across the research community.
 </p>
 
@@ -90,8 +150,7 @@ We need a coordinated national effort to tackle research precarity. By sharing y
 
 <p>We welcome your voice, expertise, and experiences.</p>
 <p>
-  <a href="https://example.com/signup" target="_blank" rel="noopener" style="display:inline-block; padding:10px 20px; background-color:#005eb8; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+  <a href="https://example.com/signup" target="_blank" rel="noopener" class="button-teal">
     Sign up to join the Research Precarity Working Group
   </a>
 </p>
-
