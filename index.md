@@ -7,10 +7,17 @@ title: Research Precarity Working Group
   <img src="{{ 'https://raw.githubusercontent.com/rikanair/precarity/main/RPWG.png' | relative_url }}" 
        alt="Research Precarity Working Group Logo" 
        width="220"
-       style="border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+       style="border-radius:8px;">
 </div>
 
 The **Research Precarity Working Group** is a collective initiative taking action to reduce the level and impact of employment precarity across research-related careers in higher education institutions.
+
+<p style="text-align:center; margin:1.5em 0;">
+  <a href="https://example.com/signup" target="_blank" rel="noopener" 
+     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
+    Sign up to join the Research Precarity Working Group
+  </a>
+</p>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
 
@@ -18,7 +25,7 @@ The **Research Precarity Working Group** is a collective initiative taking actio
 
 To take collective action to reduce the level and impact of employment precarity in research, professional services, and technical roles.
 
-<div style="font-style:italic; color:#00695c; border-left:4px solid #4db6ac; background-color:#e0f2f1; padding:1em; border-radius:4px; margin:1em 0;">
+<div style="font-style:italic; color:#00695c; border-left:4px solid #4db6ac; padding-left:1em; margin:1em 0;">
   "We need to ensure that everyone in research, across all roles, has security, recognition, and a voice in shaping the culture of their workplace."  
   <br>— Ash Collins, Research Precarity Working Group Chair
 </div>
@@ -30,7 +37,7 @@ To take collective action to reduce the level and impact of employment precarity
 <ul>
   <li><strong>Build a strong national case for change</strong> to current employment practices.</li>
   <li><strong>Advocate for improved support</strong> for colleagues facing precarity.</li>
-  <li><strong>Engage funders, HEIs and sector bodies</strong> in sector-wide conversations and calls for action.</li>
+  <li><strong>Engage funders, HEIs and national bodies</strong> in sector-wide conversations and calls for action.</li>
 </ul>
 
 <hr style="border:1px solid #4db6ac; margin:2em 0;">
@@ -110,8 +117,9 @@ We need a coordinated national effort to tackle research precarity. By sharing y
 <h3 style="color:#00695c;">Get Involved</h3>
 
 <p>We welcome your voice, expertise, and experiences.</p>
-<p>
-  <a href="https://example.com/signup" target="_blank" rel="noopener" style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
+<p style="text-align:center; margin:1.5em 0;">
+  <a href="https://example.com/signup" target="_blank" rel="noopener" 
+     style="display:inline-block; padding:12px 24px; background-color:#4db6ac; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s ease;">
     Sign up to join the Research Precarity Working Group
   </a>
 </p>
